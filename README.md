@@ -4,12 +4,12 @@ The articles are classified according to categories from "Synthesis of existing 
 Dengerink (WUR, NL), Siemen van Berkum (WUR, NL))
 
 Categories:
-Food system governance
-Sustainable diets
-Food, nutrition and health
-Food system transitions
-Agricultural innovation
-Agroecology
-Rural-urban linkages
-Development and food systems
-Food waste and circular bio-economy approaches
+- Food system governance
+- Sustainable diets
+- Food, nutrition and health
+- Food system transitions
+- Agricultural innovation
+- Agroecology
+- Rural-urban linkages
+- Development and food systems
+- Food waste and circular bio-economy approaches
